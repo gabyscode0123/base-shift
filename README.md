@@ -1,6 +1,6 @@
-# baseshift
+# Baseshift
 
-`baseshift` is a one-screen Flutter iOS app for converting integer values between binary, decimal, octal, and hexadecimal.
+`Baseshift` is a single-screen Flutter iOS app for converting integer values between binary, decimal, octal, and hexadecimal.
 
 ## Features
 

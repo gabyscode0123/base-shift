@@ -1,7 +1,3 @@
-# BaseShift
-
-BaseShift is a one-screen Flutter app for converting whole numbers between binary, decimal, octal, and hexadecimal. It uses a bright Frutiger Aero inspired interface with glassy panels, aqua gradients, and clear inline validation.
-
 ## Features
 
 - Convert between binary, decimal, octal, and hexadecimal.
